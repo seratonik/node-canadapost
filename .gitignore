@@ -16,4 +16,4 @@ npm-debug.log
 .ideas
 
 node_modules
-localTest
+local_test/*
