@@ -1,12 +1,12 @@
 {
-  "name": "node-canadapost",
+  "name": "canadapost",
   "preferGlobal": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Brent Luehr <brent@nerdcon.com>",
   "description": "A wrapper for the Canada Post API to save you time",
   "contributors": [],
   "scripts": {},
-  "main": "./lib/index",
+  "main": "./lib",
   "repository": {
     "type": "git",
     "url": "https://github.com/seratonik/node-canadapost.git"
