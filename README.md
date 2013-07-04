@@ -56,3 +56,12 @@ Example:
       console.log(err,rates);
     });
 
+
+License
+-------
+
+This library is licensed under the [MIT license][license]
+
+
+
+[license]: http://opensource.org/licenses/MIT
