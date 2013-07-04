@@ -9,6 +9,11 @@ This module is early in its development and has limited functionality. Feel free
 Getting Started
 ---------------
 
+The easiest way to grab the module is through `npm`:
+
+    npm install canadapost
+
+
 Pass your username, password and customer ID for the Canada Post API when requiring the library:
 
     var CanadaPost = require('node-canadapost')('<username>', '<password>', '<customerId>');
