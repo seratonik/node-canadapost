@@ -1,7 +1,7 @@
 {
   "name": "canadapost",
   "preferGlobal": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Brent Luehr <brent@nerdcon.com>",
   "description": "A wrapper for the Canada Post API to save you time",
   "contributors": [],
