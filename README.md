@@ -16,7 +16,7 @@ The easiest way to grab the module is through `npm`:
 
 Pass your username, password and customer ID for the Canada Post API when requiring the library:
 
-    var CanadaPost = require('node-canadapost')('<username>', '<password>', '<customerId>');
+    var CanadaPost = require('canadapost')('<username>', '<password>', '<customerId>');
 
 The module uses your NODE_ENV environment variable to determine if it's authenticating against their
 production or development servers, if NODE_ENV is set to anything other than 'production' it will assume
